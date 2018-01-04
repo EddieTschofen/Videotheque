@@ -1,0 +1,10 @@
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\bin\Debug\GestionVideotheque.exe.config
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\bin\Debug\GestionVideotheque.exe
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\bin\Debug\GestionVideotheque.pdb
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.Form1.resources
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.Properties.Resources.resources
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.csproj.GenerateResource.Cache
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.exe
+C:\Users\Eddie\source\repos\GestionVideotheque\GestionVideotheque\obj\Debug\GestionVideotheque.pdb
